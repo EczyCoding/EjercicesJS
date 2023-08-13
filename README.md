@@ -1,0 +1,2 @@
+# EjercicesJS
+Exercices in Javascript 
